@@ -1,4 +1,4 @@
-# Benchmarking-Spanner-and-CloudSQL
+#Setup Google Spanner
 Project Structure
 
 <img width="800" height="318" alt="image" src="https://github.com/user-attachments/assets/0f4a2a13-b416-4403-a38e-88dce0f90e6f" />
